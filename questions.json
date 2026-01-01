@@ -1,0 +1,20 @@
+{
+  "questions": [
+    "Quel est le langage de programmation que tu aimerais apprendre cette année ?",
+    "Quelle est ta fonctionnalité préférée de Python ?",
+    "Quel projet personnel aimerais-tu réaliser ?",
+    "Quel est le bug le plus difficile que tu aies résolu ?",
+    "Préfères-tu le frontend ou le backend ?",
+    "Quel est ton IDE ou éditeur de code préféré ?",
+    "Quelle est la dernière chose que tu as apprise en programmation ?",
+    "Quel conseil donnerais-tu à un développeur débutant ?",
+    "Quel est ton framework préféré ?",
+    "Comment organises-tu ton temps de travail ?",
+    "Quelle est ta méthode préférée pour débugger ?",
+    "Travailles-tu plutôt le matin ou le soir ?",
+    "Quel est le projet dont tu es le plus fier ?",
+    "Utilises-tu des tests automatisés dans tes projets ?",
+    "Quelle technologie te semble prometteuse pour l'avenir ?"
+  ]
+}
+
