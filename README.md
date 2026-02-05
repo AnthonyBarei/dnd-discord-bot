@@ -87,7 +87,7 @@ La question est sélectionnée automatiquement selon la date du jour.
 | Fichier | Description |
 |---------|-------------|
 | `bot.py` | Code du bot |
-| `questions.json` | 365 questions par mois |
+| `questions.json` | 365 questions / 1 question par jour |
 | `requirements.txt` | Dépendances Python |
 | `.env.example` | Template de configuration |
 | `.env` | Configuration (à créer) |
